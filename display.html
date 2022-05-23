@@ -1,0 +1,51 @@
+<html>
+
+<head>
+    <title>Understanding Display Property</title>
+    <style>
+        .block {
+            display: block;
+            height: 100px;
+            width: 100px;
+            border: dashed 1px red;
+            background-color: burlywood;
+            margin: 2px;
+        }
+
+        .inline {
+            display: inline;
+            height: 100px;
+            width: 100px;
+            border: dotted 1px red;
+            background-color: burlywood;
+            margin: 2px;
+        }
+
+        .inline-block {
+            display: inline-block;
+            height: 100px;
+            width: 100px;
+            border: solid 1px red;
+            background-color: burlywood;
+            margin: 2px;
+        }
+    </style>
+</head>
+
+<body style="background-image: url('./Images/homepageimg.png')">
+    <div class="block">Block Element</div>
+    <div class="block">Block Element</div>
+    <div class="block">Block Element</div>
+
+    <div class="inline">Inline Element</div>
+    <div class="inline">Inline Element</div>
+    <div class="inline">Inline Element</div>
+
+    <div>
+        <div style="height: 150px; width:150px" class="inline-block">Inline Block Element</div>
+        <div class="inline-block">Inline Block Element</div>
+        <div class="inline-block">Inline Block Element</div>
+    </div>
+</body>
+
+</html>

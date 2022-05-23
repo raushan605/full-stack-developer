@@ -1,0 +1,263 @@
+@media only screen and (max-width:600px)
+{
+    .logo {
+    position: absolute;
+    top: 10%;
+    color: red;
+    left: 40%;
+    font-size: 30px;
+    background-color: white;
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    text-align: center;
+        }
+       
+  
+        .logo-header {
+            width: 368px;
+            height: 75px;
+            margin: 28px 3px 25px 0;
+            font-family: Poppins;
+            font-size: 28px;
+            font-weight: 600;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.29;
+            letter-spacing: normal;
+            text-align: center;
+            color: #ffffff;
+        }
+  .search {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+        }
+  .dd {
+    width: 200px;
+    height:35px;
+    background-color: white;
+    margin-bottom: 10px;
+
+   }
+   .searchbox{
+    width: 200px;
+    height: 35px;
+    background-color: white;
+    }
+   .qs-item {
+    width: 300px;
+    height: 100px;
+    box-shadow: 0 3px 6px 0 red;
+    background-color: #ffffff;
+    margin: 5px;
+        }
+        .Quick-Searches {
+            width: 239px;
+            height: 43px;
+            margin: 17px 151px 7px 60px;
+            font-family: Poppins;
+            font-size: 30px;
+            font-weight: bold;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.53;
+            letter-spacing: normal;
+            text-align: left;
+            color: #192f60;
+          }
+          .Discover-restaurants-by-type-of-meal {
+            width: 331px;
+            height: 25px;
+            margin: 7px 59px 33px 60px;
+            font-family: Poppins;
+            font-size: 18px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.5;
+            letter-spacing: normal;
+            text-align: left;
+            color: #8c96ab;
+          }
+}
+@media only screen and (min-width:600px)and(max-width:792px){
+    .logo {
+    position: absolute;
+    top: 10%;
+    color: red;
+    left: 40%;
+    font-size: 30px;
+    background-color: white;
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    text-align: center;
+        }
+  
+  .logo-header {
+    position: absolute;
+    top: 27%;
+    left: 10%;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.00;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+.search {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
+.dd {
+    width: 200px;
+    height:35px;
+    background-color: white;
+    margin-bottom: 10px;
+
+}
+.searchbox{
+    width: 200px;
+    height: 35px;
+    background-color: white;
+}
+.qs-item {
+    width: 300px;
+    height: 100px;
+    box-shadow: 0 3px 6px 0 red;
+    background-color: #ffffff;
+    margin: 5px;
+}
+}
+.qs-item {
+    width: 360px;
+    height: 160px;
+    box-shadow: 0 3px 6px 0 red;
+    background-color: #ffffff;
+    margin: 5px;
+}
+.logo {
+    position: absolute;
+    top: 20%;
+    color: red;
+    left: 50%;
+    font-size: 50px;
+    background-color: white;
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.logo-header {
+    position: absolute;
+    top: 35%;
+    left: 30%;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}
+
+.search {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+.dd {
+    width: 150px;
+    height:35px;
+    background-color: white;
+
+}
+.searchbox{
+    width: 300px;
+    height: 35px;
+    background-color: white;
+}
+.logos {
+            
+        
+    color: red;
+    
+    font-size: 30px;
+    background-color: white;
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    text-align: center;
+        }
+        .item-left {
+            display: inline-block;
+            
+            width: 160px;
+            height: 160px;
+            margin: 0px 0px 0px -12px;
+            object-fit: contain;
+        }
+        .Breakfast {
+            width: 88px;
+            height: 25px;
+            margin: -141px 158px 116px;
+            font-family: Poppins;
+            font-size: 18px;
+            font-weight: 600;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.5;
+            letter-spacing: normal;
+            text-align: left;
+            color: #192f60;
+          }
+          .Start-your-day-with-exclusive-breakfast-options {
+            width: 137px;
+            height: 62px;
+            margin: -107px 0 44px 158px;
+            font-family: Poppins;
+            font-size: 14px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.5;
+            letter-spacing: normal;
+            text-align: left;
+            color: #8c96ab;
+          }
+          .Quick-Searches {
+            width: 239px;
+            height: 43px;
+            margin: 17px 151px 7px 60px;
+            font-family: Poppins;
+            font-size: 30px;
+            font-weight: bold;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.53;
+            letter-spacing: normal;
+            text-align: left;
+            color: #192f60;
+          }
+          .Discover-restaurants-by-type-of-meal {
+            width: 331px;
+            height: 25px;
+            margin: 7px 59px 33px 60px;
+            font-family: Poppins;
+            font-size: 18px;
+            font-weight: normal;
+            font-stretch: normal;
+            font-style: normal;
+            line-height: 1.5;
+            letter-spacing: normal;
+            text-align: left;
+            color: #8c96ab;
+          }
